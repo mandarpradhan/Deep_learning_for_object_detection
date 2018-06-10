@@ -1,6 +1,5 @@
-# Generic-Object-pdetection
+# You Only Look Once Object Detection in PyTorch
 
-In this project as looking a generic model to do object detection.
 Further updates coming soon
 
 
