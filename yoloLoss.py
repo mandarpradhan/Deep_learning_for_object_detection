@@ -1,7 +1,4 @@
-#encoding:utf-8
-#
-#created by xiongzihua 2017.12.26
-#
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
