@@ -31,7 +31,7 @@ yolo_loss.py - It is the separate python file to deal with loss function for the
 CONFIG.py -- contains global variables and paths to change <br/>
 
 [Demo_image01/2/3/4] -- Input images of demo.ipynb <br/>
-voc2012test - test ground truth annotations <br/>
-voc2007test - train ground truth annotations <br/>
+voc2012test - Training ground truth annotations <br/>
+voc2007test - Testing ground truth annotations <br/>
 
 
