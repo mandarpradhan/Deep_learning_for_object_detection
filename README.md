@@ -12,15 +12,17 @@ $ pip install scikit-image --user
 
 Code organization
 =================
-Our_VGG16.py - contains our VGG base architecture
-Training.ipynb - trains the model to reproduce loss graphs as in Figure 4-8
-predict.py - To run on the test data to get bounding boxes as in figure 9-15
-yolo_loss.py - It is the separate python file to deal with loss function for the model
-demo . ipynb -- Run a demo of our code ###( reproduce Figure 3 of our report )
-config.py -- contains global variables and paths to change
+Demo.ipynb -- Run this to see a demo of the object detector
+PLease download the file 'best.pth' to this same directory as the one containing Demo.ipynb to run the Demonstration.
+path to download best.pth ==> https://drive.google.com/file/d/1BIAHNjsrb4KWQNQnWOADgrHmG-xKRgR5/view?usp=sharing <br/>
+Our_VGG16.py - contains our VGG base architecture <br/>
+Training.ipynb - Trains the model <br/>
+predict.py - To run on the test data to get bounding boxes as in figure 9-15 <br/>
+yolo_loss.py - It is the separate python file to deal with loss function for the model <br/>
+CONFIG.py -- contains global variables and paths to change <br/>
 
 [Demo_image01/2/3/4] -- output images of demo.ipynb
-voc2012test - test ground truth annotations
+voc2012test - test ground truth annotations<br/>
 voc2007test - train ground truth annotations
 
-path to download best.pth ==> https://drive.google.com/file/d/1BIAHNjsrb4KWQNQnWOADgrHmG-xKRgR5/view?usp=sharing
+
