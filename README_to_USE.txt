@@ -21,3 +21,5 @@ config.py -- contains global variables and paths to change
 [Demo_image01/2/3/4] -- output images of demo.ipynb
 voc2012test - test ground truth annotations
 voc2007test - train ground truth annotations
+
+path to download best.pth ==> https://drive.google.com/file/d/1BIAHNjsrb4KWQNQnWOADgrHmG-xKRgR5/view?usp=sharing
