@@ -16,6 +16,8 @@ $ pip install scikit-image --user
 Install package 'cv2 ' as follow :
 $ pip install opencv-python --user
 
+Install package 'tqdm ' as follow :
+$ pip install tqdm --user
 
 Code organization
 =================
