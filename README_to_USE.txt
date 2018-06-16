@@ -9,6 +9,9 @@ $ pip install scikit-learn --user
 Install package 'skimage ' as follow :
 $ pip install scikit-image --user
 
+Install package 'cv2 ' as follow :
+$ pip install opencv-python --user
+
 Code organization
 =================
 Our_VGG16.py - contains our VGG base architecture
