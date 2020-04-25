@@ -4,7 +4,7 @@ Description
 This is project Deep_learning_for_object_detection  developed by team Insert_funny_name_here composed of Indumati Sridhar, Mandar Pradhan and Yash Agarwal <br/>
 Requirements
 ============
-Please download images of the VOC 2012 data from http://host.robots.ox.ac.uk/pascal/VOC/voc2012/#devkit and give it the path 'VOC_Datasets/VOC_2012_training/VOC2012/JPEGImages/' relative to the main directory <br/>
+- Please download images of the VOC 2012 data from http://host.robots.ox.ac.uk/pascal/VOC/voc2012/#devkit and give it the path 'VOC_Datasets/VOC_2012_training/VOC2012/JPEGImages/' relative to the main directory <br/>
 Please download images of the VOC 2007 data from http://host.robots.ox.ac.uk/pascal/VOC/voc2007/VOCtest_06-Nov-2007.tar and give it the path 'VOC_Datasets/VOC_2007_testing/VOCdevkit/VOC2007/JPEGImages/' relative to the main directory <br/>
 use tar -xvf 'filename' to untar <br/>
 Install package 'sklearn ' as follow :
